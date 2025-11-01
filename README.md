@@ -1,4 +1,4 @@
-# 🧑‍💼 Employee Relationship Management App (Backend API)
+## 🧑‍💼 Employee Relationship Management App (Backend API)
 
 A **Spring Boot–based RESTful API** for managing employees within an organization.  
 This application provides full **CRUD (Create, Read, Update, Delete)** functionality and follows clean architectural practices using **Spring Boot, Spring Data JPA, and MySQL**.
