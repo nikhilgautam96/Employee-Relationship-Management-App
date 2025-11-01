@@ -65,7 +65,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nikhilgautam96/Employee-Relationship-Management-App.git
+git clone https://github.com/nikhilgautam96/EmployeeRelationshipManagementApp.git
 
 cd EmployeeRelationshipManagementApp
 ```
