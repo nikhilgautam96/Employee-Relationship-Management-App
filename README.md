@@ -1,46 +1,48 @@
-Here’s a **professional, recruiter-friendly `README.md`** you can use for your **Employee Relationship Management App (Backend API)** GitHub repository — designed to clearly showcase your backend development and Spring Boot expertise:
-
----
-
-```markdown
 # 🧑‍💼 Employee Relationship Management App (Backend API)
 
 A **Spring Boot–based RESTful API** for managing employees within an organization.  
 This application provides full **CRUD (Create, Read, Update, Delete)** functionality and follows clean architectural practices using **Spring Boot, Spring Data JPA, and MySQL**.
 
+## 👨‍💻 Author
+
+**Nikhil Gautam:**
+Java | Spring Boot | React | AWS | Microservices
+📧 [Email me](mailto:nikhilgautam1729@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/nikhilgautam96/)
+💻 [GitHub](https://github.com/nikhilgautam96)
+
 ---
 
 ## 🚀 Features
 
-- Add new employee records  
-- Retrieve all employees or fetch by ID  
-- Update employee details (partial or full updates)  
-- Delete employees by ID  
-- Follows layered architecture — **Controller → Service → Repository → Entity**  
-- Clean error handling and use of `Optional` for null safety  
-- Uses **Spring Data JPA** for ORM and database interactions  
-- Configurable database connection through `application.properties`
+-   Add new employee records
+-   Retrieve all employees or fetch by ID
+-   Update employee details (partial or full updates)
+-   Delete employees by ID
+-   Follows layered architecture — `Controller → Service → Repository → Entity`
+-   Clean error handling and use of `Optional` for null safety
+-   Uses `Spring Data JPA` for ORM and database interactions
+-   Configurable database connection through `application.properties`
 
 ---
 
 ## 🏗️ Tech Stack
 
-| Layer | Technology |
-|-------|-------------|
-| **Backend Framework** | Spring Boot |
+| Layer                 | Technology      |
+| --------------------- | --------------- |
+| **Backend Framework** | Spring Boot     |
 | **Data Access Layer** | Spring Data JPA |
-| **Database** | MySQL |
-| **Build Tool** | Maven |
-| **Language** | Java 17+ |
-| **API Testing** | Postman / cURL |
-| **Server Port** | 9999 |
+| **Database**          | MySQL           |
+| **Build Tool**        | Maven           |
+| **Language**          | Java 17+        |
+| **API Testing**       | Postman / cURL  |
+| **Server Port**       | 9999            |
 
 ---
 
 ## 📂 Project Structure
 
 ```
-
 src/
 └── main/
 ├── java/
@@ -54,17 +56,19 @@ src/
 ├── application.properties     # DB & server config
 └── static / templates (if any)
 
-````
+```
 
 ---
 
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
+
 ```bash
-git clone https://github.com/<your-username>/EmployeeRelationshipManagementApp.git
+git clone https://github.com/nikhilgautam96/Employee-Relationship-Management-App.git
+
 cd EmployeeRelationshipManagementApp
-````
+```
 
 ### 2. Configure the Database
 
@@ -103,10 +107,10 @@ The server will start at:
 
 ```json
 {
-  "firstName": "Nikhil",
-  "lastName": "Gautam",
-  "email": "nikhil@example.com",
-  "address": "Bangalore, India"
+    "firstName": "Nikhil",
+    "lastName": "Gautam",
+    "email": "nikhil@example.com",
+    "address": "Bangalore, India"
 }
 ```
 
@@ -134,47 +138,20 @@ public class Employee {
 
 ## 🧠 Learning Highlights
 
-* Implemented **Spring Boot CRUD APIs** from scratch
-* Followed **MVC + layered architecture**
-* Used **Spring Data JPA** with **MySQL** for persistence
-* Implemented **error handling** and **partial updates** in `PUT` request
-* Demonstrates **real-world backend design** with service abstraction and clean code
+-   Implemented **Spring Boot CRUD APIs** from scratch
+-   Followed **MVC + layered architecture**
+-   Used **Spring Data JPA** with **MySQL** for persistence
+-   Implemented **error handling** and **partial updates** in `PUT` request
+-   Demonstrates **real-world backend design** with service abstraction and clean code
 
 ---
 
 ## 📈 Future Enhancements
 
-* Add **pagination and sorting** for employee retrieval
-* Integrate **Spring Validation** for input validation
-* Add **global exception handling** with `@ControllerAdvice`
-* Implement **JWT authentication** and user roles
-* Connect with a **React frontend** for full-stack demonstration
+-   Add **pagination and sorting** for employee retrieval
+-   Integrate **Spring Validation** for input validation
+-   Add **global exception handling** with `@ControllerAdvice`
+-   Implement **JWT authentication** and user roles
+-   Connect with a **React frontend** for full-stack demonstration
 
 ---
-
-## 👨‍💻 Author
-
-**Nikhil Gautam**
-Java | Spring Boot | React | AWS | Microservices
-📧 [Email me](mailto:your.email@example.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-💻 [GitHub](https://github.com/<your-username>)
-
----
-
-## 🧾 License
-
-This project is licensed under the **MIT License** — feel free to use and modify it.
-
----
-
-> ⭐ *If you like this project, don’t forget to star the repository!*
-
-```
-
----
-
-Would you like me to tailor this `README.md` more toward **recruiters** (highlighting your practical backend skills and technologies you mastered) or more toward **developers** (focusing on setup, code, and architecture details)?  
-I can make it recruiter-optimized for showcasing in job applications.
-```
-
