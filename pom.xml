@@ -8,11 +8,11 @@
 		<version>3.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.pwskills.nikhil</groupId>
+	<groupId>in.example.nikhil</groupId>
 	<artifactId>EmployeeRelationshipManagementApp</artifactId>
 	<version>1.0.0</version>
-	<name>SpringRest-EmployeeRelationshipManagementApp</name>
-	<description>Backend API app using SpringRest and SpringDataJpa.</description>
+	<name>EmployeeRelationshipManagementApp</name>
+	<description>A backend REST API for managing employee relationships, roles, and interactions within an organization.</description>
 	<url/>
 	<licenses>
 		<license/>
