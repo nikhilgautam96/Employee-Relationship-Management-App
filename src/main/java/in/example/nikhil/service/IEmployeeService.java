@@ -1,9 +1,9 @@
-package in.pwskills.nikhil.service;
+package in.example.nikhil.service;
 
 import java.util.List;
 import java.util.Optional;
 
-import in.pwskills.nikhil.entity.Employee;
+import in.example.nikhil.entity.Employee;
 
 
 public interface IEmployeeService {

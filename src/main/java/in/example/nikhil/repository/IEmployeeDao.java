@@ -1,9 +1,9 @@
-package in.pwskills.nikhil.repository;
+package in.example.nikhil.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import in.pwskills.nikhil.entity.Employee;
+import in.example.nikhil.entity.Employee;
 
 
 @Repository

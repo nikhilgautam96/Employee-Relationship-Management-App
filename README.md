@@ -46,7 +46,7 @@ Java | Spring Boot | React | AWS | Microservices
 src/
 └── main/
 ├── java/
-│    └── in/pwskills/nikhil/
+│    └── in/example/nikhil/
 │         ├── controller/           # REST controllers
 │         ├── entity/               # JPA entity classes
 │         ├── repository/           # DAO interfaces

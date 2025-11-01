@@ -1,13 +1,13 @@
-package in.pwskills.nikhil;
+package in.example.nikhil;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringRestEmployeeRelationshipManagementAppApplication {
+public class EmployeeRelationshipManagementAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringRestEmployeeRelationshipManagementAppApplication.class, args);
+		SpringApplication.run(EmployeeRelationshipManagementAppApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package in.pwskills.nikhil.entity;
+package in.example.nikhil.entity;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 

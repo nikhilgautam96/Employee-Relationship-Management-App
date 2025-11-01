@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.pwskills.nikhil</groupId>
-	<artifactId>SpringRest-EmployeeRelationshipManagementApp</artifactId>
+	<artifactId>EmployeeRelationshipManagementApp</artifactId>
 	<version>1.0.0</version>
 	<name>SpringRest-EmployeeRelationshipManagementApp</name>
 	<description>Backend API app using SpringRest and SpringDataJpa.</description>
