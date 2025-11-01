@@ -51,7 +51,7 @@ src/
 │         ├── entity/               # JPA entity classes
 │         ├── repository/           # DAO interfaces
 │         ├── service/              # Service interfaces & implementations
-│         └── SpringRestEmployeeRelationshipManagementAppApplication.java
+│         └── EmployeeRelationshipManagementAppApplication.java
 └── resources/
 ├── application.properties     # DB & server config
 └── static / templates (if any)
